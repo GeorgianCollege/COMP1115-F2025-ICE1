@@ -11,10 +11,9 @@ namespace ICE1
     {
         static void Main(string[] args) 
         {
-
-            Console.WriteLine("Hi There!");
-            Console.WriteLine("My Name is Tom.");
-            Console.WriteLine("I'm excited to meet you!");
+            string name;
+            name = "Tom";
+            Console.WriteLine(name + " says Hello!");
         }
     }
 }
