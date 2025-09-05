@@ -11,8 +11,7 @@ namespace ICE1
     {
         static void Main(string[] args) 
         {
-            string name;
-            name = "Tom";
+            string name = "Tom";
             Console.WriteLine(name + " says Hello!");
         }
     }
