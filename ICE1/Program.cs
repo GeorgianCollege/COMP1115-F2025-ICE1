@@ -2,9 +2,11 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hi There!");
+            Console.WriteLine("My Name is Tom.");
+            Console.WriteLine("I'm excited to meet you!");
         }
     }
 }
